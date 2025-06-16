@@ -46,7 +46,7 @@ Welcome! I’m a systems-minded strategist working at the intersection of AI, po
 ---
 
 ## 🛠 What I’m Building Next
-
+Online disabilities marketplace
 
 ---
 
