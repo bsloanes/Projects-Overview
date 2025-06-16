@@ -53,3 +53,5 @@ Welcome! I’m a systems-minded strategist working at the intersection of AI, po
 Thanks for stopping by—always up for building (or rethinking) systems that work better for more people.  
 📬 Reach out via [email](mailto:bsloanes@outlook.com) or connect [on LinkedIn](https://www.linkedin.com/in/bianca-swidler).
 
+Special thanks to Copilot for providing the readme template :).
+
