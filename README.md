@@ -54,3 +54,4 @@ Thanks for stopping by—always up for building (or rethinking) systems that wor
 📬 Reach out via [email](mailto:bsloanes@outlook.com) or connect [on LinkedIn](https://www.linkedin.com/in/bianca-swidler).
 
 # Projects-Overview
+special thanks to CoPilot for assisting in this overview readme :)
