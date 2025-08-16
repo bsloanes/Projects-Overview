@@ -7,7 +7,7 @@ Welcome! I’m a systems-minded strategist working at the intersection of AI, po
 ## 🔍 Featured Projects
 
 ### [`autoSort`](https://github.com/bsloanes/autoSort)
-**Status:** Usable/demo ready
+**Status:** Usable/demo ready.
 **Purpose:** Automates classification of USAF documents into Classified, CUI, and non-CUI categories.  
 **Tech:** Python
 **What I’d do differently:** Add modularity and confidence scoring to ensure documents consistently receive X classification. Add UI for non-technical stakeholders.
