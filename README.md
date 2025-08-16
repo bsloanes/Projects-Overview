@@ -13,7 +13,7 @@ Welcome! I’m a systems-minded strategist working at the intersection of AI, po
 **What I’d do differently:** Add modularity and confidence scoring to ensure documents consistently receive X classification. Add UI for non-technical stakeholders.
 
 ### [`DiversityIndex`](https://github.com/bsloanes/DiversityIndex)
-**Status:** Usable but not updated with current development capabilities
+**Status:** Usable but not updated with current development capabilities 
 **Purpose:** Simulates Gini-Simpson Diversity Index to explore uncertainty in small-population sampling.  
 **Tech:** Python, Jupyter  
 **Reflection:** Next steps would involve Air Force demographic data integration (for internal reporting) and rounding out the Confidence Interval simulation here with proper CI bootstrapping CI envelope calculated with foundational statistical tools (or, alternatively, running null hypothesis tests with real and simulated data to test hiring bias).
