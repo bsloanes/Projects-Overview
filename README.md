@@ -1,10 +1,10 @@
-# 🧠 Bianca Swidler – Project Portfolio
+# Bianca Swidler – Project Portfolio
 
 Welcome! I’m a systems-minded strategist working at the intersection of AI, policy, and equity. This GitHub hosts a collection of tools, prototypes, and research archives—some polished, others experimental—that reflect my curiosity and commitment to building thoughtful, data-driven systems.
 
 ---
 
-## 🔍 Featured Projects
+## Featured Projects
 
 ### [`autoSort`](https://github.com/bsloanes/autoSort)
 **Status:** Usable/demo ready.
@@ -45,13 +45,13 @@ Welcome! I’m a systems-minded strategist working at the intersection of AI, po
 
 ---
 
-## 🛠 What I’m Building Next
+## What I’m Building Next
 Online disabilities marketplace
 
 ---
 
 Thanks for stopping by—always up for building (or rethinking) systems that work better for more people.  
-📬 Reach out via [email](mailto:bsloanes@outlook.com) or connect [on LinkedIn](https://www.linkedin.com/in/bianca-swidler-232b1b162/).
+Reach out via [email](mailto:bsloanes@outlook.com) or connect [on LinkedIn](https://www.linkedin.com/in/bianca-swidler-232b1b162/).
 
 Special thanks to Copilot for providing the readme template :).
 
