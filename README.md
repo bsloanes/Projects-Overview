@@ -6,6 +6,13 @@ Welcome! I’m a systems-minded strategist working at the intersection of AI, po
 
 ## Featured Projects
 
+### [`politicalCampaigns](https://github.com/bsloanes/politicalCampaigns)  
+**Status:** In progress/demo ready.  
+**Purpose:** Establishes data pipeline for political campaign finance information intake and maintenance.  
+**Tech:** Google Colab, Python  
+**Current Progress:** Completed intake of records into Big Query given a Big Query table and reserved .json file in user's Google Drive.   
+**Next steps:** Parallelize intake for large datasets, lemmatization, and scheduled pull of only new records.   
+
 ### [`autoSort`](https://github.com/bsloanes/autoSort)
 **Status:** Usable/demo ready.  
 **Purpose:** Automates classification of USAF documents into Classified, CUI, and non-CUI categories.    
