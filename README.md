@@ -6,7 +6,7 @@ Welcome! I’m a systems-minded strategist working at the intersection of AI, po
 
 ## Featured Projects
 
-### [`politicalCampaigns](https://github.com/bsloanes/politicalCampaigns)  
+### [`politicalCampaigns`](https://github.com/bsloanes/politicalCampaigns)  
 **Status:** In progress/demo ready.  
 **Purpose:** Establishes data pipeline for political campaign finance information intake and maintenance.  
 **Tech:** Google Colab, Python  
